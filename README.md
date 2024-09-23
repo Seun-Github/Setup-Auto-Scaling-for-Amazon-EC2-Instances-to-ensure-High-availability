@@ -1,0 +1,1 @@
+# Setup-Auto-Scaling-for-Amazon-EC2-Instances-to-ensure-High-availability
